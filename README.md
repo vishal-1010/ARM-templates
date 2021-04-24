@@ -1,2 +1,1 @@
-# ARM-templates
-Deploying my first arm template using GitHub action
+Arm templates with predefined parameteres
